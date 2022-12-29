@@ -7,3 +7,7 @@ day-two/combinations.txt
 
 # Day five
 */__pycache__/
+
+# Day ten
+.pre-commit-config.yaml
+.vscode
